@@ -1,0 +1,66 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1533436018982" stop="1533436018995">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1533436018982" status="passed" stop="1533436018985">
+      <name>test_file.TestFile.test_file1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17368-MainThread"/>
+        <label name="host" value="LAPTOP-K312QDKS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1533436018987" status="passed" stop="1533436018988">
+      <name>test_file.TestFile.test_file2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17368-MainThread"/>
+        <label name="host" value="LAPTOP-K312QDKS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1533436018988" status="passed" stop="1533436018989">
+      <name>test_file.TestFile.test_file3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17368-MainThread"/>
+        <label name="host" value="LAPTOP-K312QDKS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1533436018990" status="passed" stop="1533436018994">
+      <name>test_scripts.TestScripts.test_scripts1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17368-MainThread"/>
+        <label name="host" value="LAPTOP-K312QDKS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1533436018994" status="passed" stop="1533436018995">
+      <name>test_scripts.TestScripts.test_scripts2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17368-MainThread"/>
+        <label name="host" value="LAPTOP-K312QDKS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
